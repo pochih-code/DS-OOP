@@ -1,6 +1,6 @@
 # DS-OOP
 
-* Instructor :  ¶À¬K¿Ä
+* Instructor : ¶À¬K¿Ä
 * Semester: 2025 Spring
 * Grade:
   * Lab ¡® Quizzes (Programming, demo): 25%
